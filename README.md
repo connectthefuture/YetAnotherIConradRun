@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/thisisclosure/YetAnotherIConradRun) 
+
 # YetAnotherIConradRun - Linux Sysadmin Challenge
 Following /u/IConrad's infrastructure list with a DevOps spin.
 
